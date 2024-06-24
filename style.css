@@ -106,7 +106,7 @@ button a{
     margin-top: 10vh;
 }
 
-.K_V{
+#K_V{
     margin: 5% 10% 5% 10%;
     overflow: auto;
     height: 1350px
@@ -126,7 +126,7 @@ button a{
 }
 .p1d{
     flex:1;
-    margin:5px;
+    margin: 15px;
     padding:5px;
 }
 .project2{
